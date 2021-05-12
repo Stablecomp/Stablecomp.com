@@ -215,7 +215,7 @@ b{font-weight: 600}
   background-size: cover;*/
   border-bottom-right-radius: 25px;
   border-top-right-radius: 25px;
-  box-shadow: 2px 2px 20px 0px rgba(0,0,0, .07);
+  box-shadow: 2px 2px 20px 0px rgba(0,0,0, .1);
   margin-left: 100px;
   border-radius: 25px;
 }
@@ -240,46 +240,6 @@ b{font-weight: 600}
 }
 
 /* SCOMP Matrix */
-
-.scomp-matrix{
-  display: flex;
-  background-color: #fafafa;
-  background-image: url('img/dots-shape.png');
-  background-position: : center;
-  background-size: cover;
-  align-items: center;
-  padding: 50px 0;
-}
-
-.scomp-matrix__title{
-  width: 50%;
-  padding: 50px;
-  display: flex;
-  text-align: left;
-  flex-flow: column;
-}
-
-.scomp-matrix__title .button{width: 202px;}
-
-.scomp-matrix__text{
-  display: block;
-  width: 50%;
-}
-
-.scomp-matrix__text__content{
-  width: 50%;
-  padding: 35px;
-  align-self: center;
-  border-radius: 15px;
-  margin: 15px;
-  box-shadow: 2px 2px 20px 0px rgba(0,0,0, .3);
-}
-
-.scomp-matrix__text__content.matrix-box{width: 100%;}
-.scomp-matrix__text__content p{padding: 0;}
-.scomp-matrix__text__content h4{padding-bottom: 15px;}
-.scomp-matrix__text__container{display: flex; height: 50%;}
-
 .the-matrix .poster__img{background: none; box-shadow: none;}
 .the-matrix .poster__img img {transform: scale(1.35) translateX(75px);}
 .the-matrix__box .col{ padding: 15px; border-radius: 15px; margin: 0 10px;}
@@ -584,6 +544,7 @@ iframe {border-radius: 10px;}
 
   .scomp-plus .grid{display: none;}
   .scomp-plus .main-carousel{display: block; margin-top: -70px;}
+  .scomp-plus .main-carousel .fas, .scomp-plus .main-carousel .far{margin-left: 0; margin-bottom: 15px;}
 
   .hero {
     border-bottom-left-radius: 30px;
@@ -624,7 +585,7 @@ iframe {border-radius: 10px;}
   .the-matrix__box .col{ padding: 0px; border-radius: 15px; margin: 0 0px;}
 
   .scomp-flow{padding: 75px 15px;}
-  .scomp-flow img {height: 100%; width: 90%}
+  .scomp-flow img {height: 100%; width: 100%}
 
   .scomp-token.mt-2 {margin-top: 25px;}
 
