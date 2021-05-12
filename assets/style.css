@@ -150,6 +150,7 @@ b{font-weight: 600}
   border-bottom-right-radius: 35px;
 }
 .hero .grid{align-items: center; display: flex; height: 100%}
+.hero__content{margin-left: 5%;}
 .hero__content p{width: 90%; font-size: 28px;}
 .hero__image{text-align: center; transform: scale(0.7);}
 .hero__image img{animation: move 1.4s infinite ease-in-out alternate;}
@@ -549,6 +550,7 @@ iframe {border-radius: 10px;}
   .hero {
     border-bottom-left-radius: 30px;
     border-bottom-right-radius: 30px;}
+  .hero__content{margin-left: 0;}
   .hero__content h1, .hero__content p{width: 100%;}
   .hero__content p{font-size: 22px;}
   .hero__image {display: none;}
@@ -569,15 +571,6 @@ iframe {border-radius: 10px;}
   .scomp-token .col:nth-child(2){margin: 0;}
   .scomp-token p:first-of-type{margin-bottom: 25px;}
   .scomp-token img {transform: scale(1); margin-bottom: 25px;}
-
-  .scomp-matrix{flex-wrap: wrap; height: auto;}
-  .scomp-matrix__title {padding: 25px;}
-  .scomp-matrix__title,
-  .scomp-matrix__text {width: 100%;}
-  .scomp-matrix__text__container {flex-direction: column; height: auto; padding: 0 15px;}
-  .scomp-matrix__text__content {width: 100%; padding: 25px;}
-  .scomp-matrix__text__content:nth-child(1){background-color: #022C56;}
-  .scomp-matrix__text__content:nth-child(2){background-color: #0455A6;}
 
   .the-matrix {flex-flow: column-reverse; margin-top: 75px;}
   .the-matrix .poster__img {padding: 0;}

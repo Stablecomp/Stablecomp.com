@@ -184,7 +184,7 @@
   <section  id="scomp-contact" class="grid stc-home-form mt-3">
     <div class="col reveal">
       <h3 class="big-text tw">Support Stablecomp</h3>
-      <p class="tw">Contact us to become an investor and contribute to building our project.</p>
+      <p class="tw">Contact us and let's start to building the project together!</p>
       <a class="typeform-share button" href="https://form.typeform.com/to/fCvmrtiQ?typeform-medium=embed-snippet" data-mode="popup" style="display:inline-block;text-decoration:none;background-color:#022C56;color:white;cursor:pointer;font-family:Helvetica,Arial,sans-serif;font-size:20px;line-height:50px;text-align:center;margin:0;height:50px;padding:0px 33px;border-radius:10px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:bold;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;" data-size="70" data-hide-headers="true" data-hide-footer="true" target="_blank">Contact us</a>
     </div>
   </section>
