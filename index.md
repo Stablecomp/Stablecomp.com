@@ -43,7 +43,7 @@
     </div>
     <div class="poster__content reveal">
       <h3 class="big-text">The Mission</h3>
-      <p><b>Stablecomp</b> offers, with an intuitive and <b>user friendly interface</b>, the automatic self-composition of all stable annuity opportunities present on BSC, sorting them into a <b>risk / return matrix</b>.
+      <p>Stablecomp offers, with an intuitive and <b>user friendly interface</b>, the automatic self-composition of all stable annuity opportunities present on BSC, sorting them into a risk / return matrix.
       </p>
       <p>
         The integrated analytics section allows users to <b>monitor returns and assets diversification</b>.
@@ -55,8 +55,8 @@
   <section class="poster the-matrix mt-1">
     <div class="poster__content reveal">
       <h3 class="big-text">Choose your investment Risk/Return</h3>
-      <p><b>The matrix</b> makes the job of <b>selecting stablecoin annuity opportunities</b> quick and easy.
-        It offers the user a <b>synthetic analysis of all stablecoin pools</b> present on the apps of the selected chain, dividing them by risk and return.</p>
+      <p><b>The matrix</b> makes the job of selecting stablecoin annuity opportunities quick and easy.
+        It offers the user a synthetic analysis of all stablecoin pools present on the apps of the selected chain, dividing them by risk and return.</p>
       <a href="" class="button">Learn more <i class="fas fa-arrow-circle-right"></i></a>
     </div>
     <div class="poster__img reveal">
@@ -67,7 +67,7 @@
   <section class=" scomp-flow mt-1">
     <h3 class="big-text reveal">Automatic<br> Self-Composition</h3>
       <img class="reveal" src=" {{ "/assets/img/Scomp-flow.jpg" | relative_url }} " alt="How Stablecomp works.Its working flow">
-      <p class="reveal">The <b>automatic farming mechanism</b> allows users to easily obtain returns in stablecoin. <br> They just have to <b>deposit and withdraw the stablecoin they prefer with just 1-Click</b>. The automatic-Self Composition will do everything.
+      <p class="reveal">The automatic farming mechanism allows users to easily obtain returns in stablecoin. <br> They just have to deposit and withdraw the stablecoin they prefer with <b>just 1-Click</b>. The automatic-Self Composition will do everything.
       </p>
       <p><a href="#" class="button">Learn more <i class="fas fa-arrow-circle-right"></i></a></p>
   </section>
@@ -78,7 +78,7 @@
     </div>
     <div class="poster__content poster__content--circolo reveal">
       <h3 class="big-text">Analyze your yield</h3>
-      <p>Three simple graphs to <b>analyze and visualize</b> all user data:<br> <b>asset allocation</b>, <b>realized & average return</b> and the <b>1-year yield projection</b> charts.
+      <p>Three simple graphs to analyze and visualize all user data:<br> asset allocation, realized & average return and the 1-year yield projection charts.
       </p>
       <a href="#" class="button">Learn more <i class="fas fa-arrow-circle-right"></i></a>
     </div>
@@ -154,7 +154,7 @@
     </article>
   </section>
 
-  <section class="grid stc-home-form mt-3">
+  <section  id="scomp-contact" class="grid stc-home-form mt-3">
     <div class="col reveal">
       <h3 class="big-text tw">Support Stablecomp</h3>
       <p class="tw">Contact us to become an investor and contribute to building our project.</p>

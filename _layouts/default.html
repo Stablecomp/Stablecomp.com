@@ -24,11 +24,16 @@
       </div>
       <ul class="menu">
         <li><a href="">Docs</a></li>
-        <li><a href="#timeline">Roadmap</a></li>
-        <li><a href="">Contacts</a></li>
+        <li><a href="{{ "/#timeline" | relative_url }} ">Roadmap</a></li>
+        <li><a href="{{ "/#scomp-contact" | relative_url }} ">Contacts</a></li>
         <a href="#" class="button button--launch">Launch App</a>
         <li>
-          <p class="icon-bar"><a href="https://t.me/stablecomp" target="_blank"> <i class="fab fa-telegram-plane"></i></a> <a href="https://twitter.com/Stablecomp_com"target="_blank"><i class="fab fa-twitter"></i></a> <a href="#"target="_blank"> <i class="fab fa-github"></i></a></a></p>
+          <p class="icon-bar">
+            <a href="https://t.me/stablecomp" target="_blank"> <i class="fab fa-telegram-plane"></i></a>
+            <a href="https://twitter.com/Stablecomp_com"target="_blank"><i class="fab fa-twitter"></i></a>
+            <a href="https://stablecomp.medium.com/"target="_blank"> <i class="fab fa-medium"></i></a>
+            <a href="https://github.com/Stablecomp"target="_blank"> <i class="fab fa-github"></i></a>
+          </p>
         </li>
       </ul>
       <div class="hamburger">
@@ -79,7 +84,7 @@
 
   });
 
-  ScrollReveal().reveal('.reveal', { distance: '80px', duration: 800, easing: 'cubic-bezier(.215, .61, .355, 1)', interval: 500 });
+  ScrollReveal().reveal('.reveal', { distance: '80px', duration: 800, easing: 'cubic-bezier(.215, .61, .355, 1)', interval: 400 });
   ScrollReveal().reveal('.zoom', { duration: 1500, easing: 'cubic-bezier(.215, .61, .355, 1)', interval: 200, scale: 0.65, mobile:false });
 
 </script>
