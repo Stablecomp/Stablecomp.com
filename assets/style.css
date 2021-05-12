@@ -150,7 +150,7 @@ b{font-weight: 600}
   border-bottom-right-radius: 35px;
 }
 .hero .grid{align-items: center; display: flex; height: 100%}
-.hero__content{margin-left: 5%;}
+.hero__content{padding-left: 5%;}
 .hero__content p{width: 90%; font-size: 28px;}
 .hero__image{text-align: center; transform: scale(0.7);}
 .hero__image img{animation: move 1.4s infinite ease-in-out alternate;}
