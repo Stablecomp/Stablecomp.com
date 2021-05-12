@@ -624,7 +624,7 @@ iframe {border-radius: 10px;}
   .the-matrix__box .col{ padding: 0px; border-radius: 15px; margin: 0 0px;}
 
   .scomp-flow{padding: 75px 15px;}
-  .scomp-flow img {height: 100%;}
+  .scomp-flow img {height: 100%; width: 90%}
 
   .scomp-token.mt-2 {margin-top: 25px;}
 
@@ -632,6 +632,8 @@ iframe {border-radius: 10px;}
 
   .footer__content{padding: 100px 15px 15px 15px;
     text-align: center;}
+
+  .footer h4:first-of-type{padding-bottom: 0;}
 
   section#timeline {width: 80%;}
   section#timeline article {margin-bottom: 25px;}
@@ -643,6 +645,9 @@ iframe {border-radius: 10px;}
 
 }
 
+html {
+  scroll-behavior: smooth;
+}
 
 @keyframes move {
   from{

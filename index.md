@@ -7,7 +7,7 @@
       <div class="hero__content col reveal">
         <h1 class="big-text tw ">Stake stable, <br>earn easily</h1>
         <p class="med-text tw">The first platform to easily manage and earn interests on your stablecoins.</p>
-        <a href="" class="button">Learn more <i class="fas fa-arrow-circle-right"></i></a>
+        <a href="{{ "/#scomp-contact" | relative_url }}" class="button">Learn more <i class="fas fa-arrow-circle-right"></i></a>
       </div>
       <div class="hero__image col reveal">
         <img src=" {{ "/assets/img/Scomp-Coin-blu-big.png" | relative_url }} " alt="Stablecomp Token">
