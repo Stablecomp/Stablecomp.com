@@ -35,6 +35,33 @@
         <h4>Analytics Section</h4>
       </div>
     </div>
+
+    <div class="main-carousel" data-flickity='{ "freeScroll": true , "wrapAround": true , "contain": true }'>
+      <div class="carousel-cell">
+        <div>
+          <i class="fas fa-table"></i>
+          <h4>Risk/Reward <br> Matrix</h4>
+        </div>
+      </div>
+      <div class="carousel-cell">
+        <div>
+          <i class="fas fa-hand-pointer"></i>
+          <h4>1-Click <br> Staking</h4>
+        </div>
+      </div>
+      <div class="carousel-cell">
+        <div>
+          <i class="fas fa-undo"></i>
+          <h4>Automated <br> Compound</h4>
+        </div>
+      </div>
+      <div class="carousel-cell">
+        <div>
+          <i class="fas fa-chart-pie"></i>
+          <h4>Analytics <br> Section</h4>
+        </div>
+      </div>
+    </div>
   </section>
 
   <section class="poster poster--mission mt-1">
@@ -48,7 +75,7 @@
       <p>
         The integrated analytics section allows users to <b>monitor returns and assets diversification</b>.
       </p>
-      <a href="#" class="button">Learn more <i class="fas fa-arrow-circle-right"></i></a>
+      <a href="{{ "/#scomp-contact" | relative_url }}" class="button">Learn more <i class="fas fa-arrow-circle-right"></i></a>
     </div>
   </section>
 
@@ -57,7 +84,7 @@
       <h3 class="big-text">Choose your investment Risk/Return</h3>
       <p><b>The matrix</b> makes the job of selecting stablecoin annuity opportunities quick and easy.
         It offers the user a synthetic analysis of all stablecoin pools present on the apps of the selected chain, dividing them by risk and return.</p>
-      <a href="" class="button">Learn more <i class="fas fa-arrow-circle-right"></i></a>
+      <a href="{{ "/#scomp-contact" | relative_url }}" class="button">Learn more <i class="fas fa-arrow-circle-right"></i></a>
     </div>
     <div class="poster__img reveal">
       <img src=" {{ "/assets/img/Risk-Reward_Mockup.png" | relative_url }} " alt="The Stablecomp's risk/return matrix">
@@ -66,10 +93,10 @@
 
   <section class=" scomp-flow mt-1">
     <h3 class="big-text reveal">Automatic<br> Self-Composition</h3>
-      <img class="reveal" src=" {{ "/assets/img/Scomp-flow.jpg" | relative_url }} " alt="How Stablecomp works.Its working flow">
+      <img class="reveal" src=" {{ "/assets/img/tokenflow.png" | relative_url }} " alt="How Stablecomp works.Its working flow">
       <p class="reveal">The automatic farming mechanism allows users to easily obtain returns in stablecoin. <br> They just have to deposit and withdraw the stablecoin they prefer with <b>just 1-Click</b>. The automatic-Self Composition will do everything.
       </p>
-      <p><a href="#" class="button">Learn more <i class="fas fa-arrow-circle-right"></i></a></p>
+      <p><a href="{{ "/#scomp-contact" | relative_url }}" class="button">Learn more <i class="fas fa-arrow-circle-right"></i></a></p>
   </section>
 
   <section class="poster poster--analytics mt-1">
@@ -77,10 +104,10 @@
       <img src=" {{ "/assets/img/Stablecomp_Analytics-Mockup-interface.png" | relative_url }} " alt="Stablecomp analytics interface">
     </div>
     <div class="poster__content poster__content--circolo reveal">
-      <h3 class="big-text">Analyze your yield</h3>
+      <h3 class="big-text">Analyze <br> your yield</h3>
       <p>Three simple graphs to analyze and visualize all user data:<br> asset allocation, realized & average return and the 1-year yield projection charts.
       </p>
-      <a href="#" class="button">Learn more <i class="fas fa-arrow-circle-right"></i></a>
+      <a href="{{ "/#scomp-contact" | relative_url }}" class="button">Learn more <i class="fas fa-arrow-circle-right"></i></a>
     </div>
   </section>
 

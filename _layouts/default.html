@@ -23,9 +23,9 @@
         <a href="#"><img src="{{ "/assets/img/stablecomp-full_logo.png" | relative_url }}" alt=""></a>
       </div>
       <ul class="menu">
-        <li><a href="">Docs</a></li>
-        <li><a href="{{ "/#timeline" | relative_url }} ">Roadmap</a></li>
-        <li><a href="{{ "/#scomp-contact" | relative_url }} ">Contacts</a></li>
+        <li><a class="menu-item" href="">Docs</a></li>
+        <li><a class="menu-item" href="{{ "/#timeline" | relative_url }} ">Roadmap</a></li>
+        <li><a class="menu-item" href="{{ "/#scomp-contact" | relative_url }} ">Contacts</a></li>
         <a href="#" class="button button--launch">Launch App</a>
         <li>
           <p class="icon-bar">
@@ -58,7 +58,7 @@
           <a href="https://t.me/stablecomp" target="_blank"> <i class="fab fa-telegram-plane"></i></a>
           <a href="https://twitter.com/Stablecomp_com"target="_blank"><i class="fab fa-twitter"></i></a>
           <a href="https://stablecomp.medium.com/"target="_blank"> <i class="fab fa-medium"></i></a>
-          <a href="#"target="_blank"> <i class="fab fa-github"></i></a></p>
+          <a href="https://github.com/Stablecomp"target="_blank"> <i class="fab fa-github"></i></a></p>
       </div>
       <div class="col">
         <h4 class="med-text tw">Contact us</h4>
@@ -79,6 +79,11 @@
 
     /* Open Panel */
     $( ".hamburger" ).on('click', function() {
+      $(".menu").toggleClass("menu--open") && $(".hamburger").toggleClass("menu--open") ;
+    });
+
+    /* Close Panel */
+    $( ".menu-item" ).on('click', function() {
       $(".menu").toggleClass("menu--open") && $(".hamburger").toggleClass("menu--open") ;
     });
 
