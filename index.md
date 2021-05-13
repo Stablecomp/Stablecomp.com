@@ -81,7 +81,7 @@
 
   <section class="poster the-matrix mt-1">
     <div class="poster__content reveal">
-      <h3 class="big-text">Choose your investment Risk/Return</h3>
+      <h3 class="big-text">Choose your Risk/Return level</h3>
       <p><b>The matrix</b> makes the job of selecting stablecoin annuity opportunities quick and easy.
         It offers the user a synthetic analysis of all stablecoin pools present on the apps of the selected chain, dividing them by risk and return.</p>
       <a href="{{ "/#scomp-contact" | relative_url }}" class="button">Learn more <i class="fas fa-arrow-circle-right"></i></a>
