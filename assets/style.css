@@ -240,13 +240,18 @@ b{font-weight: 600}
   max-width: 80%;
 }
 
+/* SCOMP Multichain */
+.scomp-multichain {text-align: center;}
+.scomp-multichain p{padding: 0 15%; margin-bottom: 25px;}
+.scomp-multichain img{margin-bottom: 50px; width: 90%; height: auto;}
+
 /* SCOMP Matrix */
 .the-matrix .poster__img{background: none; box-shadow: none;}
 .the-matrix .poster__img img {transform: scale(1.35) translateX(75px);}
 .the-matrix__box .col{ padding: 15px; border-radius: 15px; margin: 0 10px;}
 
 /* SCOMP Flow*/
-.scomp-flow {
+.scomp-flow{
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -566,6 +571,11 @@ iframe {border-radius: 10px;}
   .scomp-matrix__title h3{
     max-width: 100%;
   }
+
+  /* SCOMP Multichain */
+  .scomp-multichain {text-align: center;}
+  .scomp-multichain p{padding: 0;}
+  .scomp-multichain img{margin-bottom: 25px; width: 100%; height: auto;}
 
   .scomp-governance {padding: 50px 25px;}
   .scomp-token .col:nth-child(2){margin: 0;}
