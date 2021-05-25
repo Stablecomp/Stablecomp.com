@@ -157,43 +157,41 @@
       <div class="inner">
         <span class="date"></span>
         <h4>Q2 2021</h4>
-        <p>Istitutional Private sale <br />Project initiation </p>
+        <p>○ Istitutional private sale <br />○ Project initiation </p>
       </div>
     </article>
     <article class="reveal">
       <div class="inner">
         <span class="date"></span>
         <h4>Q3 2021</h4>
-        <p>Public sale<br />Product launch<br />r/r yield matrix on BSC<br />Smart Contract audit<br />Integrated chat</p>
+        <p>○ Public sale<br />○ Product launch<br />○ R/R yield matrix on BSC<br />○ Smart Contract audit<br />○ Integrated chat</p>
       </div>
     </article>
     <article class="reveal">
       <div class="inner">
         <span class="date"></span>
         <h4>Q4 2021</h4>
-        <p>Launch on Polygon Chain <br>R/R yield matrix on Polygon<br />1-Click staking<br />Analytics section<br />Launchpad SCOMP</p>
+        <p>○ Launch on Polygon Chain <br>○ R/R yield matrix on Polygon<br />○ 1-Click staking<br />○ Analytics section<br />○ Launchpad SCOMP</p>
       </div>
     </article>
     <article class="reveal">
       <div class="inner">
         <span class="date"></span>
         <h4>Q1 2022</h4>
-        <p>Launch on Fantom Chain<br />R/R Yield matrix on Fantom<br />DAO formation (Governance)</p>
+        <p>○ Launch on Fantom Chain<br />○ R/R Yield matrix on Fantom<br />○ DAO formation (Governance)</p>
       </div>
     </article>
     <article class="reveal">
       <div class="inner">
         <span class="date"></span>
         <h4>Q2 2022</h4>
-        <p>Launch on HECO Chain<br />R/R yield matrix on HECO <br>Mobile App</p>
-        <p>Launch on Ethereum Chain<br />R/R Yield matrix on Ethereum <br>Yield management section<br>Debit card</p>
-      </div>
+        <p>○ Launch on HECO Chain<br />○ R/R yield matrix on HECO <br>○ Mobile App</p>
     </article>
     <article class="reveal">
       <div class="inner">
         <span class="date"></span>
         <h4>Q2 2022</h4>
-        <p>Launch on Ethereum Chain<br />R/R Yield matrix on Ethereum <br>Yield management section<br>Debit card</p>
+        <p>○ Launch on Ethereum Chain<br />○ R/R Yield matrix on Ethereum <br>○ Yield management section<br>Debit card</p>
       </div>
     </article>
   </section>
