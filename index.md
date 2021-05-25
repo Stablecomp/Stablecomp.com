@@ -79,7 +79,7 @@
     </div>
   </section>
 
-  <section class="scomp-multichain grid">
+  <section class="scomp-multichain grid mt-1">
     <div class="scomp-multichain__content">
     <h3 class="big-text reveal">Multi-Chain</h3>
     <img class="reveal" src="{{ "/assets/img/scomp-multichain-platform.png" | relative_url }}" alt="Stablecomp is a multichain defi platform. Stablecomp guarantee the highest level of diversification for its users, by landing on BSC and then Polygon, Fantom, HECO, and Ethereum chains.">
