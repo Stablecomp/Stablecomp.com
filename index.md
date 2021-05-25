@@ -82,7 +82,7 @@
   <section class="scomp-multichain grid">
     <div class="scomp-multichain__content">
     <h3 class="big-text reveal">Multi-Chain</h3>
-    <img class="reveal" src="img/scomp-multichain-platform.png" alt="Stablecomp is a multichain defi platform. Stablecomp guarantee the highest level of diversification for its users, by landing on BSC and then Polygon, Fantom, HECO, and Ethereum chains.">
+    <img class="reveal" src="{{ "/assets/img/scomp-multichain-platform.png" | relative_url }}" alt="Stablecomp is a multichain defi platform. Stablecomp guarantee the highest level of diversification for its users, by landing on BSC and then Polygon, Fantom, HECO, and Ethereum chains.">
     <p class="reveal">Multi-chain means multiple opportunities, and Stablecomp guarantee the highest level of diversification for its users, by landing on BSC and then Polygon, Fantom, HECO, and Ethereum.</p>
     <a href="{{ "/#scomp-contact" | relative_url }}" class="button">Learn more <i class="fas fa-arrow-circle-right"></i></a>
     </div>
