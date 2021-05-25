@@ -192,7 +192,7 @@
       <div class="inner">
         <span class="date"></span>
         <h4>Q3 2022</h4>
-        <p>○ Launch on Ethereum Chain<br />○ R/R Yield matrix on Ethereum <br>○ Yield management section<br>Debit card</p>
+        <p>○ Launch on Ethereum Chain<br />○ R/R Yield matrix on Ethereum <br>○ Yield management section<br>○ Debit card</p>
       </div>
     </article>
   </section>
