@@ -292,6 +292,14 @@ b{font-weight: 600}
   animation: move 1.4s infinite ease-in-out alternate;
 }
 
+/* ! Mintlayer */
+.mintlayer .poster__img{
+  box-shadow: none;
+  border-radius: 0;
+}
+.mintlayer h3.med-text{padding-bottom: 5px; color: #11977f;}
+.mintlayer .med-text {font-size: 26px;}
+
 /* Roadmap */
 section#timeline {
   width: 60%;
@@ -591,6 +599,8 @@ iframe {border-radius: 10px;}
   .scomp-flow img {height: 100%; width: 100%}
 
   .scomp-token.mt-2 {margin-top: 25px;}
+
+  .mintlayer {flex-direction: column-reverse;}
 
   .stc-home-form .col{margin: 0; padding: 25px;}
 
