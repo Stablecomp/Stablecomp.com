@@ -297,10 +297,26 @@
 
   <section class="scomp-plus">
     <div class="grid">
-      <div class="col"></div>
-      <div class="col"></div>
-      <div class="col"></div>
-      <div class="col"></div>
+      <div class="col">
+        <img src=" {{ "/assets/img/abalone-logo.png" | relative_url }}" alt="Abalone Logo">
+      </div>
+      <div class="col">
+        <img src=" {{ "/assets/img/moonwhale-logo.png" | relative_url }}" alt="MoonWhale logo">
+      </div>
+      <div class="col">
+        <img src=" {{ "/assets/img/cspdao-logo.png" | relative_url }}" alt="CSPDAO logo">
+      </div>
+    </div>
+    <div class="grid">
+      <div class="col">
+        <img src=" {{ "/assets/img/oig-logo.png" | relative_url }}" alt="Oracles Invesrment Group logo">
+      </div>
+      <div class="col">
+        <img src=" {{ "/assets/img/backdragon-logo.png" | relative_url }}" alt="Black Dragon logo">
+      </div>
+      <div class="col">
+        <img src=" {{ "/assets/img/legion-logo.png" | relative_url }}" alt="Legion Ventures logo">
+      </div>
     </div>
 
   <section  id="scomp-contact" class="grid stc-home-form mt-3">
