@@ -323,7 +323,7 @@
     </div>
   </section>
 
-  <section  id="scomp-contact" class="grid stc-home-form mt-3">
+  <section  id="scomp-contact" class="grid stc-home-form">
     <div class="col reveal">
       <h3 class="big-text tw">Support Stablecomp</h3>
       <p class="tw">Contact us and let's start to building the project together!</p>
