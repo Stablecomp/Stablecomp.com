@@ -320,7 +320,7 @@ b{font-weight: 600}
 }
 
 /*Partners*/
-.scomp-partners .col{
+#partners .col{
   align-items: center;
   justify-content: center;
   display: flex;
