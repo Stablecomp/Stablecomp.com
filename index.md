@@ -295,7 +295,7 @@
     </article>
   </section>
 
-  <section id="partners" class="scomp-plus">
+  <section id="partners">
     <div class="partners__title">
       <h3 class="big-text">Partners</h3>
     </div>

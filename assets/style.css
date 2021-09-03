@@ -301,6 +301,8 @@ b{font-weight: 600}
 .mintlayer .med-text {font-size: 26px;}
 
 /*Partners*/
+#partners {padding:75px 0; background-color: #fafafa;}
+#partners .grid {margin-bottom: 25px;}
 #partners .col{
   align-items: center;
   justify-content: center;
@@ -308,10 +310,11 @@ b{font-weight: 600}
   margin:0px 20px 0 20px;
   padding: 10px;
   border-radius: 10px;
-  background-color: #fff;
+  background-color: #fafafa;
   box-shadow: 2px 2px 20px 0px rgba(0,0,0, .08);
   overflow: hidden;
   text-align: center;
+  height: 150px;
 }
 
 .partners__title .big-text {text-align: center;}
@@ -433,6 +436,12 @@ section#timeline article:nth-child(even) div.inner h4:after {
 }
 
 /* Form Hompage */
+#scomp-contact{
+  margin-top: 100px;
+  background-color: #fafafa;
+  background-color: #fafafa;
+  padding-top: 50px;
+}
 
 .stc-home-form{margin-bottom: -75px;}
 .stc-home-form .col{
