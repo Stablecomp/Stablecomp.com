@@ -247,53 +247,61 @@
     <article class="reveal">
       <div class="inner">
         <span class="date"></span>
-        <h4>Q1 2021</h4>
+        <h4>Q2 2021</h4>
         <p>✓ Stablecomp Idea Is Born <br> ✓ Market research</p>
       </div>
     </article>
     <article class="reveal">
       <div class="inner">
         <span class="date"></span>
-        <h4>Q2 2021</h4>
+        <h4>Q3 2021</h4>
         <p>○ Istitutional private sale <br />○ Project initiation </p>
       </div>
     </article>
     <article class="reveal">
       <div class="inner">
         <span class="date"></span>
-        <h4>Q3 2021</h4>
+        <h4>Q4 2021</h4>
         <p>○ Public sale<br />○ Product launch<br />○ R/R yield matrix on BSC<br />○ Smart Contract audit<br />○ Integrated chat</p>
       </div>
     </article>
     <article class="reveal">
       <div class="inner">
         <span class="date"></span>
-        <h4>Q4 2021</h4>
+        <h4>Q1 2022</h4>
         <p>○ Launch on Polygon Chain <br>○ R/R yield matrix on Polygon<br />○ 1-Click staking<br />○ Analytics section<br />○ Launchpad SCOMP</p>
       </div>
     </article>
     <article class="reveal">
       <div class="inner">
         <span class="date"></span>
-        <h4>Q1 2022</h4>
-        <p>○ Launch on Fantom Chain<br />○ R/R Yield matrix on Fantom<br />○ DAO formation (Governance)</p>
-      </div>
-    </article>
-    <article class="reveal">
-      <div class="inner">
-        <span class="date"></span>
         <h4>Q2 2022</h4>
-        <p>○ Launch on Ethereum Chain<br />○ R/R yield matrix on Ethereum <br>○ Mobile App</p>
+        <p>○ Launch on Avalanche Chain<br />○ R/R Yield matrix on Fantom<br />○ DAO formation (Governance)</p>
       </div>
     </article>
     <article class="reveal">
       <div class="inner">
         <span class="date"></span>
         <h4>Q3 2022</h4>
+        <p>○ Launch on Ethereum Chain<br />○ R/R yield matrix on Ethereum <br>○ Mobile App</p>
+      </div>
+    </article>
+    <article class="reveal">
+      <div class="inner">
+        <span class="date"></span>
+        <h4>Q4 2022</h4>
         <p>○ Launch on Mintlayer Chain<br />○ R/R Yield matrix on Mintlayer <br>○ Yield management section<br>○ Debit card</p>
       </div>
     </article>
   </section>
+
+  <section class="scomp-plus">
+    <div class="grid">
+      <div class="col"></div>
+      <div class="col"></div>
+      <div class="col"></div>
+      <div class="col"></div>
+    </div>
 
   <section  id="scomp-contact" class="grid stc-home-form mt-3">
     <div class="col reveal">
