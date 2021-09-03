@@ -295,7 +295,7 @@
     </article>
   </section>
 
-  <section class="scomp-plus">
+  <section class="scomp-partners">
     <div class="grid">
       <div class="col">
         <img src=" {{ "/assets/img/abalone-logo.png" | relative_url }}" alt="Abalone Logo">
