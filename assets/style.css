@@ -301,7 +301,7 @@ b{font-weight: 600}
 .mintlayer .med-text {font-size: 26px;}
 
 /*Partners*/
-#partners {padding:75px 0; background-color: #fafafa;}
+#partners {margin-top: 75px; padding:75px 0; background-color: #fafafa;}
 #partners .grid {margin-bottom: 25px;}
 #partners .col{
   align-items: center;
@@ -444,6 +444,7 @@ section#timeline article:nth-child(even) div.inner h4:after {
 
 .stc-home-form{margin-bottom: -75px;}
 .stc-home-form .col{
+  position: relative;
   margin:0 250px;
   padding: 35px;
   text-align: center;
