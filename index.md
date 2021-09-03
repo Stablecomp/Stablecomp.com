@@ -315,7 +315,7 @@
         <img src=" {{ "/assets/img/oig-logo.png" | relative_url }}" alt="Oracles Invesrment Group logo">
       </div>
       <div class="col">
-        <img src=" {{ "/assets/img/backdragon-logo.png" | relative_url }}" alt="Black Dragon logo">
+        <img src=" {{ "/assets/img/blackdragon-logo.png" | relative_url }}" alt="Black Dragon logo">
       </div>
       <div class="col">
         <img src=" {{ "/assets/img/legion-logo.png" | relative_url }}" alt="Legion Ventures logo">
