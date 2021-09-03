@@ -300,6 +300,22 @@ b{font-weight: 600}
 .mintlayer h3.med-text{padding-bottom: 5px; color: #11977f;}
 .mintlayer .med-text {font-size: 26px;}
 
+/*Partners*/
+#partners .col{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  margin:0px 20px 0 20px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 2px 2px 20px 0px rgba(0,0,0, .08);
+  overflow: hidden;
+  text-align: center;
+}
+
+.partners__title .big-text {text-align: center;}
+
 /* Roadmap */
 section#timeline {
   width: 60%;
