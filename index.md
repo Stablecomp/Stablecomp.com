@@ -321,6 +321,7 @@
         <img src=" {{ "/assets/img/legion-logo.png" | relative_url }}" alt="Legion Ventures logo">
       </div>
     </div>
+  </section>
 
   <section  id="scomp-contact" class="grid stc-home-form mt-3">
     <div class="col reveal">

@@ -321,8 +321,9 @@ b{font-weight: 600}
 
 /*Partners*/
 #partners .col{
-
-
+  align-items: center;
+  justify-content: center;
+  display: flex;
   margin:0px 20px 0 20px;
   padding: 10px;
   border-radius: 10px;
