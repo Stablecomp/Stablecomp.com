@@ -320,7 +320,7 @@ b{font-weight: 600}
 }
 
 /*Partners*/
-.scomp-partners.col{
+.scomp-partners .col{
   align-items: center;
   justify-content: center;
   display: flex;
@@ -332,6 +332,8 @@ b{font-weight: 600}
   overflow: hidden;
   text-align: center;
 }
+
+
 
 /* Roadmap */
 section#timeline {
