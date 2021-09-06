@@ -318,6 +318,25 @@ b{font-weight: 600}
 
 .partners__title .big-text {text-align: center;}
 
+/*Team*/
+.team{margin-bottom: 75px;}
+.team .col{
+  flex-flow: column;
+}
+
+.team img{
+  height: 100px;
+  margin-bottom:15px;
+}
+
+.team h4{
+  padding-bottom: 10px;
+}
+
+.team p{font-size: 14px; flex-direction: row;}
+
+.team a {display: inline-flex;}
+
 /* Roadmap */
 section#timeline {
   width: 60%;
