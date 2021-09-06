@@ -373,56 +373,56 @@
     </div>
 
     <div class="main-carousel team-carousel" data-flickity='{ "freeScroll": true , "wrapAround": true , "contain": true }'>
-      <div class="carousel-cell">
+      <div class="carousel-cell team-cell">
         <div>
           <img src=" {{ "/assets/img/gianluca-landini.png" | relative_url }}" alt="Gianluca Landini">
           <h4>Gianluca Landini</h4>
           <p>Founder</p>
         </div>
       </div>  
-      <div class="carousel-cell">
+      <div class="carousel-cell team-cell">
         <div>
           <img src=" {{ "/assets/img/salvatore-furnari.png" | relative_url }}" alt="Salvatore Luciano Furnari">
           <h4>Salvatore L. Furnari</h4>
           <p>Lawyer & Chartered Accountant</p>
         </div>
       </div>  
-      <div class="carousel-cell">
+      <div class="carousel-cell team-cell">
         <div>
           <img src=" {{ "/assets/img/stefano-coppola.png" | relative_url }}" alt="Stefano Coppola">
           <h4>Stefano Coppola</h4>
           <p>Senior Analyst</p>
         </div>
       </div>  
-      <div class="carousel-cell">  
+      <div class="carousel-cell team-cell">  
         <div>
           <img src=" {{ "/assets/img/mirko-maggiore.png" | relative_url }}" alt="Mirko Maggiore">
           <h4>Mirko Maggiore</h4>
           <p>Front-End Developer</p>
         </div>
       </div>  
-      <div class="carousel-cell">
+      <div class="carousel-cell team-cell">
         <div>
           <img src=" {{ "/assets/img/fabio-pacchioni.png" | relative_url }}" alt="Fabio Pacchioni">
           <h4>Fabio Pacchioni</h4>
           <p>Blockchain Engineer</p>
         </div>
       </div>
-      <div class="carousel-cell">
+      <div class="carousel-cell team-cell">
         <div>
           <img src=" {{ "/assets/img/emanuele-civini.png" | relative_url }}" alt="Emanuele Civini">
           <h4>Emanuele Civini</h4>
           <p>Solidity Developer</p>
         </div>
       </div>
-      <div class="carousel-cell">
+      <div class="carousel-cell team-cell">
         <div>
           <img src=" {{ "/assets/img/marco-iodice.png" | relative_url }}" alt="Marco Iodice">
           <h4>Marco Iodice</h4>
           <p>Business Developer</p>
         </div>
       </div>
-      <div class="carousel-cell">
+      <div class="carousel-cell team-cell">
         <div>
           <img src=" {{ "/assets/img/chris-connelly.png" | relative_url }}" alt="Chris Connelly">
           <h4>Chris Connelly</h4>

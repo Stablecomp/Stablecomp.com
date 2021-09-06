@@ -672,7 +672,7 @@ iframe {border-radius: 10px;}
 
   .mintlayer {flex-direction: column-reverse;}
 
-  .team .main-carousel.team-carousel .carousel-cell{
+  .team .team-cell {
     align-items: center !important;
     justify-content: center !important;
     padding: 10px !important;
@@ -683,20 +683,20 @@ iframe {border-radius: 10px;}
     text-align: center !important;
   }
 
-  .team .main-carousel.team-carousel .carousel-cell img{
+  .team .team-carousel  img{
     height: 150px !important;
     margin: 15px 0 !important;
     border-radius: 100% !important;
     box-shadow: 5px 9px 10px rgb(0 0 0 / 5%) !important;
   }
 
-  .team .main-carousel.team-carousel .carousel-cell h4{
+  .team .team-carousel h4{
     padding-bottom: 10px !important;
   }
 
-  .team .carousel-cell p{font-size: 14px; flex-direction: row !important; padding-bottom: 15px !important;}
+  .team .team-carousel p{font-size: 14px; flex-direction: row !important; padding-bottom: 15px !important;}
 
-  .team .main-carousel.team-carousel .carousel-cell a {
+  .team .team-carousel a {
     display: inline-flex !important;
     font-size: 20px !important;
     margin: 0 10px !important;
