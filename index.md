@@ -82,7 +82,7 @@
   <section class="scomp-multichain grid mt-1">
     <div class="scomp-multichain__content">
     <h3 class="big-text reveal">Multi-Chain</h3>
-    <img class="reveal" src="{{ "/assets/img/scomp-multichain.png" | relative_url }}" alt="Stablecomp is a multichain defi platform. Stablecomp guarantee the highest level of diversification for its users, by landing on BSC and then Polygon, Avalanche, HECO, and Ethereum chains.">
+    <img class="reveal" src="{{ "/assets/img/scomp-multichain.png" | relative_url }}" alt="Stablecomp is a multichain defi platform. Stablecomp guarantee the highest level of diversification for its users, by landing on BSC and then Polygon, Avalanche, Ethereum and Mintlayer chains.">
     <p class="reveal">Multi-chain means multiple opportunities, and Stablecomp guarantee the highest level of diversification for its users, by landing on BSC and then Polygon, Avalanche, HECO, and Ethereum.</p>
     <a href="{{ "/#scomp-contact" | relative_url }}" class="button">Learn more <i class="fas fa-arrow-circle-right"></i></a>
     </div>
@@ -372,7 +372,7 @@
       </div>
     </div>
 
-    <div class="main-carousel " data-flickity='{ "freeScroll": true , "wrapAround": true , "contain": true }'>
+    <div class="main-carousel team-carousel" data-flickity='{ "freeScroll": true , "wrapAround": true , "contain": true }'>
       <div class="carousel-cell">
         <div>
           <img src=" {{ "/assets/img/gianluca-landini.png" | relative_url }}" alt="Gianluca Landini">
