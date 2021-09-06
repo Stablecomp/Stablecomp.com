@@ -322,6 +322,7 @@ b{font-weight: 600}
 .team{margin-bottom: 75px;}
 .team .col{
   flex-flow: column;
+  height: auto;
 }
 
 .team img{
@@ -333,9 +334,13 @@ b{font-weight: 600}
   padding-bottom: 10px;
 }
 
-.team p{font-size: 14px; flex-direction: row;}
+.team p{font-size: 14px; flex-direction: row; padding-bottom: 15px;}
 
-.team a {display: inline-flex;}
+.team a {
+  display: inline-flex;
+  font-size: 20px;
+  margin: 0 10px;
+}
 
 /* Roadmap */
 section#timeline {
