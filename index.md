@@ -82,7 +82,7 @@
   <section class="scomp-multichain grid mt-1">
     <div class="scomp-multichain__content">
     <h3 class="big-text reveal">Multi-Chain</h3>
-    <img class="reveal" src="{{ "/assets/img/scomp-multichain-platform.png" | relative_url }}" alt="Stablecomp is a multichain defi platform. Stablecomp guarantee the highest level of diversification for its users, by landing on BSC and then Polygon, Fantom, HECO, and Ethereum chains.">
+    <img class="reveal" src="{{ "/assets/img/scomp-multichain.png" | relative_url }}" alt="Stablecomp is a multichain defi platform. Stablecomp guarantee the highest level of diversification for its users, by landing on BSC and then Polygon, Avalanche, HECO, and Ethereum chains.">
     <p class="reveal">Multi-chain means multiple opportunities, and Stablecomp guarantee the highest level of diversification for its users, by landing on BSC and then Polygon, Fantom, HECO, and Ethereum.</p>
     <a href="{{ "/#scomp-contact" | relative_url }}" class="button">Learn more <i class="fas fa-arrow-circle-right"></i></a>
     </div>
@@ -276,7 +276,7 @@
       <div class="inner">
         <span class="date"></span>
         <h4>Q2 2022</h4>
-        <p>○ Launch on Avalanche Chain<br />○ R/R Yield matrix on Fantom<br />○ DAO formation (Governance)</p>
+        <p>○ Launch on Avalanche Chain<br />○ R/R Yield matrix on Avalanche<br />○ DAO formation (Governance)</p>
       </div>
     </article>
     <article class="reveal">
@@ -331,37 +331,21 @@
           <img src=" {{ "/assets/img/gianluca-landini.png" | relative_url }}" alt="Gianluca Landini">
           <h4>Gianluca Landini</h4>
           <p>Founder</p>
-          <p>
-            <a href="{{ "https://t.me/stablecomp" | relative_url }}"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-            <a href="{{ "https://t.me/stablecomp" | relative_url }}"><i class="fab fa-telegram-plane"></i></a>
-          </p>
         </div>
         <div class="col">
           <img src=" {{ "/assets/img/salvatore-furnari.png" | relative_url }}" alt="Salvatore Luciano Furnari">
           <h4>Salvatore L. Furnari</h4>
           <p>Lawyer & Chartered Accountant</p>
-          <p>
-            <a href="{{ "https://t.me/stablecomp" | relative_url }}"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-            <a href="{{ "https://t.me/stablecomp" | relative_url }}"><i class="fab fa-telegram-plane"></i></a>
-          </p>
         </div>
         <div class="col">
           <img src=" {{ "/assets/img/stefano-coppola.png" | relative_url }}" alt="Stefano Coppola">
           <h4>Stefano Coppola</h4>
           <p>Senior Analyst</p>
-          <p>
-            <a href="{{ "https://t.me/stablecomp" | relative_url }}"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-            <a href="{{ "https://t.me/stablecomp" | relative_url }}"><i class="fab fa-telegram-plane"></i></a>
-          </p>
         </div>
         <div class="col">
           <img src=" {{ "/assets/img/mirko-maggiore.png" | relative_url }}" alt="Mirko Maggiore">
           <h4>Mirko Maggiore</h4>
           <p>Web Designer</p>
-          <p>
-            <a href="{{ "https://t.me/stablecomp" | relative_url }}"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-            <a href="{{ "https://t.me/stablecomp" | relative_url }}"><i class="fab fa-telegram-plane"></i></a>
-          </p>
         </div>
       </div>
       <div class="grid">
@@ -369,38 +353,21 @@
           <img src=" {{ "/assets/img/fabio-pacchioni.png" | relative_url }}" alt="Fabio Pacchioni">
           <h4>Fabio Pacchioni</h4>
           <p>Blockchain Engineer</p>
-          <p>
-            <a href="{{ "https://t.me/stablecomp" | relative_url }}"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-            <a href="{{ "https://t.me/stablecomp" | relative_url }}"><i class="fab fa-telegram-plane"></i></a>
-          </p>
         </div>
         <div class="col">
           <img src=" {{ "/assets/img/emanuele-civini.png" | relative_url }}" alt="Emanuele Civini">
           <h4>Emanuele Civini</h4>
           <p>Solidity Developer</p>
-          <p>
-            <a href="{{ "https://t.me/stablecomp" | relative_url }}"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-            <a href="{{ "https://t.me/stablecomp" | relative_url }}"><i class="fab fa-telegram-plane"></i></a>
-          </p>
         </div>
         <div class="col">
           <img src=" {{ "/assets/img/marco-iodice.png" | relative_url }}" alt="Marco Iodice">
           <h4>Marco Iodice</h4>
-          <p>Commercial Manager</p>
-          <p>
-            <a href="{{ "https://t.me/stablecomp" | relative_url }}"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-            <a href="{{ "https://t.me/stablecomp" | relative_url }}"><i class="fab fa-telegram-plane"></i></a>
-          </p>
+          <p>Business Developer</p>
         </div>
         <div class="col">
           <img src=" {{ "/assets/img/chris-connelly.png" | relative_url }}" alt="Chris Connelly">
           <h4>Chris Connelly</h4>
           <p>Community Manager</p>
-          <p>
-            <a href="{{ "https://t.me/stablecomp" | relative_url }}"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-            <a href="{{ "https://t.me/stablecomp" | relative_url }}"><i class="fab fa-telegram-plane"></i></a>
-          </p>
-
         </div>
       </div>
     </div>
