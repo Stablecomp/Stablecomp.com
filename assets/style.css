@@ -83,11 +83,15 @@ b{font-weight: 600}
 .button--launch::before {border-radius: 150px;}
 .button--launch::after {
   content: 'Soon';
-  padding: 5px;
-  height: 15px;
+  padding: 5px 8px;
+  height: auto;
   width: auto;
-  position: relative;
-  
+  position: absolute;
+  top: -7px;
+  right: -10px;
+  border-radius: 100px;
+  font-size: 12px;
+  background-color: #cd5840;
 }
 
 .fas{ font-size: 20px; margin-left: 10px; transition: .2s ease-out;}
