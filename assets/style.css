@@ -321,7 +321,7 @@ b{font-weight: 600}
 .partners__title .big-text {text-align: center;}
 
 /*Team*/
-.team{margin-bottom: 75px;}
+.team{margin-top: 75px;}
 .team .col{
   flex-flow: column;
   height: auto !important;
