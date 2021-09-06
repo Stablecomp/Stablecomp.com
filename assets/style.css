@@ -81,6 +81,14 @@ b{font-weight: 600}
   padding: 15px 23px;
 }
 .button--launch::before {border-radius: 150px;}
+.button--launch::after {
+  content: 'Soon';
+  padding: 5px;
+  height: 15px;
+  width: auto;
+  position: relative;
+  
+}
 
 .fas{ font-size: 20px; margin-left: 10px; transition: .2s ease-out;}
 .far{ font-size: 45px; margin-right: 10px;}
@@ -314,6 +322,7 @@ b{font-weight: 600}
   overflow: hidden;
   text-align: center;
   height: 150px;
+  transition: ease-out .3s;
 }
 
 #partners .col:hover{box-shadow: 2px 2px 20px 0px rgba(0,0,0, .08);}
