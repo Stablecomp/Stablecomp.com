@@ -311,11 +311,12 @@ b{font-weight: 600}
   border: solid 2px #eee;
   border-radius: 10px;
   background-color: #fafafa;
-  /*box-shadow: 2px 2px 20px 0px rgba(0,0,0, .08);*/
   overflow: hidden;
   text-align: center;
   height: 150px;
 }
+
+#partners .col:hover{box-shadow: 2px 2px 20px 0px rgba(0,0,0, .08);}
 
 .partners__title .big-text {text-align: center;}
 
@@ -328,7 +329,7 @@ b{font-weight: 600}
 
 .team img{
   height: 100px;
-  margin-top:15px;
+  margin-top: 15px;
 }
 
 .team h4{
