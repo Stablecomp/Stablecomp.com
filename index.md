@@ -329,7 +329,6 @@
       <div class="grid">
         <div class="col">
           <img src=" {{ "/assets/img/gianluca-landini.png" | relative_url }}" alt="Gianluca Landini">
-          <a href="{{ "https://t.me/@Glracer15" | relative_url }}"> <i class="fab fa-telegram-plane"></i></a>
           <h4>Gianluca Landini</h4>
           <p>Founder</p>
         </div>
