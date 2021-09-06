@@ -335,28 +335,35 @@ b{font-weight: 600}
 
 /*Team*/
 .team{margin-top: 75px;}
-.team .col{
+.team .col, .team .carousel-cell{
   flex-flow: column;
   height: auto !important;
+  border: solid 2px #eee;
+  border-radius: 10px;
 }
 
-.team img{
+.team img, .team .carousel-cell img{
   height: 150px;
   margin: 15px 0;
   border-radius: 100%;
   box-shadow: 5px 9px 10px rgb(0 0 0 / 5%);
 }
 
-.team h4{
+.team h4, .team .carousel-cell h4{
   padding-bottom: 10px;
 }
 
-.team p{font-size: 14px; flex-direction: row; padding-bottom: 15px;}
+.team p, .team .carousel-cell p{font-size: 14px; flex-direction: row; padding-bottom: 15px;}
 
-.team a {
+.team a, .team .carousel-cell a{
   display: inline-flex;
   font-size: 20px;
   margin: 0 10px;
+}
+
+.team .flickity-viewport {
+    height: 290px !important;
+    align-items: center;
 }
 
 /* Roadmap */
