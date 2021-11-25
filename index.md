@@ -342,7 +342,7 @@
       </div>
     </div>
 
-    <div class="team"">
+    <div class="team">
       <div class="partners__title">
         <h3 class="big-text">Team</h3>
       </div>
