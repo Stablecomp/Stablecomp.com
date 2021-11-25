@@ -309,6 +309,9 @@
       <div class="col">
         <img src=" {{ "/assets/img/cspdao-logo.png" | relative_url }}" alt="CSPDAO logo">
       </div>
+      <div class="col">
+        <img src=" {{ "/assets/img/howlcapital-logo.png" | relative_url }}" alt="Howl Capital logo">
+      </div>
     </div>
     <div class="grid">
       <div class="col">
@@ -320,9 +323,26 @@
       <div class="col">
         <img src=" {{ "/assets/img/legion-logo.png" | relative_url }}" alt="Legion Ventures logo">
       </div>
+      <div class="col">
+        <img src=" {{ "/assets/img/mexc-logo.png" | relative_url }}" alt="MEXC Exchange logo">
+      </div>
+    </div>
+    <div class="grid">
+      <div class="col">
+        <img src=" {{ "/assets/img/safelaunch-logo.png" | relative_url }}" alt="SafeLaunch logo">
+      </div>
+      <div class="col">
+        <img src=" {{ "/assets/img/dci-logo.png" | relative_url }}" alt="Dutch Crypto Investors logo">
+      </div>
+      <div class="col">
+        <img src=" {{ "/assets/img/jun-logo.png" | relative_url }}" alt="Jun Capital - Unizen logo">
+      </div>
+      <div class="col">
+        <img src=" {{ "/assets/img/pack-capital-logo.png" | relative_url }}" alt="Pack Capital logo">
+      </div>
     </div>
 
-    <div class="team" style="display:none;">
+    <div class="team"">
       <div class="partners__title">
         <h3 class="big-text">Team</h3>
       </div>
