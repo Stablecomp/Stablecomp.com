@@ -247,50 +247,29 @@
     <article class="reveal">
       <div class="inner">
         <span class="date"></span>
-        <h4>Q2 2021</h4>
-        <p>✓ Stablecomp Idea Is Born <br> ✓ Market research</p>
-      </div>
-    </article>
-    <article class="reveal">
-      <div class="inner">
-        <span class="date"></span>
-        <h4>Q3 2021</h4>
-        <p>○ Istitutional private sale <br />○ Project initiation </p>
-      </div>
-    </article>
-    <article class="reveal">
-      <div class="inner">
-        <span class="date"></span>
-        <h4>Q4 2021</h4>
-        <p>○ Public sale<br />○ Product launch<br />○ R/R yield matrix on BSC<br />○ Smart Contract audit<br />○ Integrated chat</p>
-      </div>
-    </article>
-    <article class="reveal">
-      <div class="inner">
-        <span class="date"></span>
         <h4>Q1 2022</h4>
-        <p>○ Launch on Polygon Chain <br>○ R/R yield matrix on Polygon<br />○ 1-Click staking<br />○ Analytics section<br />○ Launchpad SCOMP</p>
+        <p>✓ Completion of the Development Team <br> ✓ UI Beta development <br> ✓ UI Testing & Revision <br> ✓ UI Release<br> ✓V1 Development initiation</p>
       </div>
     </article>
     <article class="reveal">
       <div class="inner">
         <span class="date"></span>
         <h4>Q2 2022</h4>
-        <p>○ Launch on Avalanche Chain<br />○ R/R Yield matrix on Avalanche<br />○ DAO formation (Governance)</p>
+        <p>○ V1 tuning <br />○ V1 internal testing <br />○ Massive marketing campaign & KOL activation <br />○ V1 community testing<br />○ V1 launch with support for first chain</p>
       </div>
     </article>
     <article class="reveal">
       <div class="inner">
         <span class="date"></span>
         <h4>Q3 2022</h4>
-        <p>○ Launch on Ethereum Chain<br />○ R/R yield matrix on Ethereum <br>○ Mobile App</p>
+        <p>○ Pre IDO Marketing<br />○ Governance Opening<br />○ Support for second chain<br />○ New Vaults (ongoing)<br />○ Pre launch marketing Event <br />○ IDO launch</p>
       </div>
     </article>
     <article class="reveal">
       <div class="inner">
         <span class="date"></span>
         <h4>Q4 2022</h4>
-        <p>○ Launch on Mintlayer Chain<br />○ R/R Yield matrix on Mintlayer <br>○ Yield management section<br>○ Debit card</p>
+        <p>○ Support for third Chain <br>○ New Vaults<br />○ Community Incentives<br />○ Analytics section</p>
       </div>
     </article>
   </section>
