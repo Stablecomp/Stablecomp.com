@@ -329,7 +329,7 @@ b{font-weight: 600}
   transition: ease-out .3s;
 }
 
-#partners img{width:45%;}
+#partners img{max-height:55%;}
 
 #partners .col:hover{box-shadow: 2px 2px 20px 0px rgba(0,0,0, .08);}
 
