@@ -141,7 +141,7 @@
     </div>
   </section>
 
-  <section class="poster mintlayer mt-1">
+  <section class="poster mintlayer mt-1" style="display:none;">
     <div class="poster__content reveal">
       <h3 class="med-text">A step into the future</h3>
       <h3 class="big-text">Mintlayer</h3>
@@ -341,22 +341,12 @@
           <h4>Stefano Coppola</h4>
           <p>Senior Analyst</p>
         </div>
-        <div class="col">
-          <img src=" {{ "/assets/img/mirko-maggiore.png" | relative_url }}" alt="Mirko Maggiore">
-          <h4>Mirko Maggiore</h4>
-          <p>Front-End Developer</p>
-        </div>
       </div>
       <div class="grid">
         <div class="col">
-          <img src=" {{ "/assets/img/fabio-pacchioni.png" | relative_url }}" alt="Fabio Pacchioni">
-          <h4>Fabio Pacchioni</h4>
-          <p>Blockchain Engineer</p>
-        </div>
-        <div class="col">
-          <img src=" {{ "/assets/img/emanuele-civini.png" | relative_url }}" alt="Emanuele Civini">
-          <h4>Emanuele Civini</h4>
-          <p>Solidity Developer</p>
+          <img src=" {{ "/assets/img/mirko-maggiore.png" | relative_url }}" alt="Mirko Maggiore">
+          <h4>Mirko Maggiore</h4>
+          <p>Designer</p>
         </div>
         <div class="col">
           <img src=" {{ "/assets/img/marco-iodice.png" | relative_url }}" alt="Marco Iodice">
@@ -364,9 +354,41 @@
           <p>Business Developer</p>
         </div>
         <div class="col">
+          <img src=" {{ "/assets/img/liz-biella.png" | relative_url }}" alt="Liz Biella">
+          <h4>Liz Biella</h4>
+          <p>CMO - Marketing</p>
+        </div>
+        <div class="col">
           <img src=" {{ "/assets/img/chris-connelly.png" | relative_url }}" alt="Chris Connelly">
           <h4>Chris Connelly</h4>
           <p>Community Manager</p>
+        </div>
+        <div class="col">
+          <img src=" {{ "/assets/img/Fatima.png" | relative_url }}" alt="Fatima Castiglione Maldonado">
+          <h4>Fatima Castiglione Maldonado</h4>
+          <p>Solidity Developer</p>
+        </div>
+        <div class="col">
+          <img src=" {{ "/assets/img/Xavier.png" | relative_url }}" alt="Javier Cabrera">
+          <h4>Javier Cabrera</h4>
+          <p>Solidity Developer</p>
+        </div>
+      </div>
+       <div class="grid">
+        <div class="col">
+          <img src=" {{ "/assets/img/chris-connelly.png" | relative_url }}" alt="Chris Connelly">
+          <h4>Chris Connelly</h4>
+          <p>Community Manager</p>
+        </div>
+        <div class="col">
+          <img src=" {{ "/assets/img/Fatima.png" | relative_url }}" alt="Fatima Castiglione Maldonado">
+          <h4>Fatima Castiglione Maldonado</h4>
+          <p>Solidity Developer</p>
+        </div>
+        <div class="col">
+          <img src=" {{ "/assets/img/Xavier.png" | relative_url }}" alt="Javier Cabrera">
+          <h4>Javier Cabrera</h4>
+          <p>Solidity Developer</p>
         </div>
       </div>
     </div>
