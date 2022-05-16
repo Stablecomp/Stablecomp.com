@@ -373,7 +373,7 @@
         <div class="col">
           <img src=" {{ "/assets/img/Xavier.png" | relative_url }}" alt="Javier Cabrera">
           <h4>Javier Cabrera</h4>
-          <p>Solidity Developer</p>
+          <p>Front-end Developer</p>
         </div>
       </div>
     </div>
