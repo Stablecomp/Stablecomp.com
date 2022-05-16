@@ -358,21 +358,6 @@
           <h4>Liz Biella</h4>
           <p>CMO - Marketing</p>
         </div>
-        <div class="col">
-          <img src=" {{ "/assets/img/chris-connelly.png" | relative_url }}" alt="Chris Connelly">
-          <h4>Chris Connelly</h4>
-          <p>Community Manager</p>
-        </div>
-        <div class="col">
-          <img src=" {{ "/assets/img/Fatima.png" | relative_url }}" alt="Fatima Castiglione Maldonado">
-          <h4>Fatima Castiglione Maldonado</h4>
-          <p>Solidity Developer</p>
-        </div>
-        <div class="col">
-          <img src=" {{ "/assets/img/Xavier.png" | relative_url }}" alt="Javier Cabrera">
-          <h4>Javier Cabrera</h4>
-          <p>Solidity Developer</p>
-        </div>
       </div>
        <div class="grid">
         <div class="col">
